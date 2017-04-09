@@ -1,0 +1,3 @@
+### data explorations
+
+mostly just for fun...
