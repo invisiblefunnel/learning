@@ -1,0 +1,7 @@
+git+https://github.com/afimb/gtfslib-python.git#d97d4ffc6335a1b31fd9316460e5065e9fc022b3
+ipy_table
+jupyter
+matplotlib
+networkx
+nxpd
+pandas
